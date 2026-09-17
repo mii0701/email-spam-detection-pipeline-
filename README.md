@@ -26,3 +26,5 @@ Messy, unstructured text data often contains noise, missing values, and irreleva
 - Efficient feature extraction techniques for text pre-processing.
 - Managing data cleaning pipelines to ensure model input consistency.
 - Evaluating classification metrics (Precision, Recall, F1-Score) to prevent false positives.
+
+- *Project created for CWIE Personal Branding Assessment at UNAM.* 
